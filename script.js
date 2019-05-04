@@ -35,6 +35,7 @@ req.onload = function() {
   
         fileWriter.onwriteend = function(e) {
           var file = fileEntry.toURL();
+          document.body.appendChild(file);
           window.open(file, '_blank');
           console.log('Write completed.');
         };
