@@ -1,0 +1,2698 @@
+[
+    {
+        "id": 1,
+        "word": "a",
+        "rom": "a",
+        "phon": "/a/",
+        "gram": "preposition.",
+        "meaning": "to, until, from"
+    },
+    {
+        "id": 2,
+        "word": "aai",
+        "rom": "aai",
+        "phon": "/'aːi/",
+        "gram": "adjective.",
+        "meaning": "lunar"
+    },
+    {
+        "id": 3,
+        "word": "aaith ",
+        "rom": "aaith ",
+        "phon": "/aːɪθ/",
+        "gram": "noun.",
+        "meaning": "the night, the world, the language"
+    },
+    {
+        "id": 4,
+        "word": "aasi",
+        "rom": "aasi",
+        "phon": "/'aːsɪ/",
+        "gram": "noun.",
+        "meaning": "living being, creature"
+    },
+    {
+        "id": 5,
+        "word": "aast",
+        "rom": "aast",
+        "phon": "/aːst/",
+        "gram": "noun.",
+        "meaning": "sea, ocean"
+    },
+    {
+        "id": 6,
+        "word": "afir",
+        "rom": "afir",
+        "phon": "/afih/",
+        "gram": "noun.",
+        "meaning": "spear, pointy weapon"
+    },
+    {
+        "id": 7,
+        "word": "ahi",
+        "rom": "ahi",
+        "phon": "/'ahi/",
+        "gram": "verb.",
+        "meaning": "to see"
+    },
+    {
+        "id": 8,
+        "word": "ahish",
+        "rom": "ahish",
+        "phon": "/'ahiʃ/",
+        "gram": "noun.",
+        "meaning": "foresee, profecy"
+    },
+    {
+        "id": 9,
+        "word": "ai",
+        "rom": "ai",
+        "phon": "/aɪ/",
+        "gram": "adjective.",
+        "meaning": "sweet"
+    },
+    {
+        "id": 10,
+        "word": "airi",
+        "rom": "airi",
+        "phon": "/'aɪri/",
+        "gram": "noun.",
+        "meaning": "spring, flower bloom season"
+    },
+    {
+        "id": 11,
+        "word": "ak",
+        "rom": "ak",
+        "phon": "/ak/",
+        "gram": "pronoun.",
+        "meaning": "I, myself, me"
+    },
+    {
+        "id": 12,
+        "word": "aka",
+        "rom": "aka",
+        "phon": "/a'ka/",
+        "gram": "verb.",
+        "meaning": "to build"
+    },
+    {
+        "id": 13,
+        "word": "akash",
+        "rom": "akash",
+        "phon": "/a'kaʃ/",
+        "gram": "noun.",
+        "meaning": "construction, building"
+    },
+    {
+        "id": 14,
+        "word": "akath",
+        "rom": "akath",
+        "phon": "/a'kaθ/",
+        "gram": "noun.",
+        "meaning": "mountain"
+    },
+    {
+        "id": 15,
+        "word": "aki",
+        "rom": "aki",
+        "phon": "/'aki/",
+        "gram": "preposition. noun.",
+        "meaning": "top, peak, up"
+    },
+    {
+        "id": 16,
+        "word": "akt",
+        "rom": "akt",
+        "phon": "/akt/",
+        "gram": "adjective.",
+        "meaning": "old, ancient"
+    },
+    {
+        "id": 17,
+        "word": "alkith",
+        "rom": "alkith",
+        "phon": "/al'kiθ/",
+        "gram": "noun.",
+        "meaning": "storm"
+    },
+    {
+        "id": 18,
+        "word": "amne",
+        "rom": "amne",
+        "phon": "/'amnɘ/",
+        "gram": "noun.",
+        "meaning": "apple"
+    },
+    {
+        "id": 19,
+        "word": "anaa",
+        "rom": "anaa",
+        "phon": "/a'naː/",
+        "gram": "noun.",
+        "meaning": "friend"
+    },
+    {
+        "id": 20,
+        "word": "ani",
+        "rom": "ani",
+        "phon": "/a'ni/",
+        "gram": "verb.",
+        "meaning": "to love"
+    },
+    {
+        "id": 21,
+        "word": "aniaes",
+        "rom": "aniaes",
+        "phon": "/ani'aɘs/",
+        "gram": "pronoun. adjective. masc.",
+        "meaning": "darling"
+    },
+    {
+        "id": 22,
+        "word": "anias",
+        "rom": "anias",
+        "phon": "/ani'as/",
+        "gram": "pronoun. adjective. fem.",
+        "meaning": "darling"
+    },
+    {
+        "id": 23,
+        "word": "anis",
+        "rom": "anis",
+        "phon": "/a'nis/",
+        "gram": "verb.",
+        "meaning": "to steal, to rob"
+    },
+    {
+        "id": 24,
+        "word": "anisaes",
+        "rom": "anisaes",
+        "phon": "/ani'saɘs/",
+        "gram": "noun. masc.",
+        "meaning": "thief, robber"
+    },
+    {
+        "id": 25,
+        "word": "anisai",
+        "rom": "anisai",
+        "phon": "/ani'saɪ/",
+        "gram": "noun.",
+        "meaning": "theft, robbery"
+    },
+    {
+        "id": 26,
+        "word": "anisas",
+        "rom": "anisas",
+        "phon": "/ani'sas/",
+        "gram": "noun. fem.",
+        "meaning": "thief, robber"
+    },
+    {
+        "id": 27,
+        "word": "anish",
+        "rom": "anish",
+        "phon": "/a'niʃ/",
+        "gram": "noun.",
+        "meaning": "love"
+    },
+    {
+        "id": 28,
+        "word": "anith",
+        "rom": "anith",
+        "phon": "/'aniθ/",
+        "gram": "noun.",
+        "meaning": "the feeling of missing a loved one"
+    },
+    {
+        "id": 29,
+        "word": "anthae",
+        "rom": "anthae",
+        "phon": "/an'θaɘ/",
+        "gram": "noun.",
+        "meaning": "fertility"
+    },
+    {
+        "id": 30,
+        "word": "ao",
+        "rom": "ao",
+        "phon": "/'ao/",
+        "gram": "noun.",
+        "meaning": "mouth, hole"
+    },
+    {
+        "id": 31,
+        "word": "ari",
+        "rom": "ari",
+        "phon": "/a'ri/",
+        "gram": "noun. adjective.",
+        "meaning": "blue, cold"
+    },
+    {
+        "id": 32,
+        "word": "arikath",
+        "rom": "arikath",
+        "phon": "/'arikath/",
+        "gram": "noun.",
+        "meaning": "city, place"
+    },
+    {
+        "id": 33,
+        "word": "arima",
+        "rom": "arima",
+        "phon": "/'arɪma/",
+        "gram": "noun.",
+        "meaning": "reign, dinasty, empire"
+    },
+    {
+        "id": 34,
+        "word": "arsk",
+        "rom": "arsk",
+        "phon": "/arsk/",
+        "gram": "verb.",
+        "meaning": "to melt"
+    },
+    {
+        "id": 35,
+        "word": "as",
+        "rom": "as",
+        "phon": "/as/",
+        "gram": "verb.",
+        "meaning": "to drink"
+    },
+    {
+        "id": 36,
+        "word": "asa",
+        "rom": "asa",
+        "phon": "/'asa/",
+        "gram": "noun.",
+        "meaning": "peace"
+    },
+    {
+        "id": 37,
+        "word": "asana",
+        "rom": "asana",
+        "phon": "/asa'na/",
+        "gram": "expression.",
+        "meaning": "May you be the peace in the world', farewell"
+    },
+    {
+        "id": 38,
+        "word": "ash",
+        "rom": "ash",
+        "phon": "/aʃ/",
+        "gram": "adjective.",
+        "meaning": "small, little"
+    },
+    {
+        "id": 39,
+        "word": "ashnim",
+        "rom": "ashnim",
+        "phon": "/'ɑʃnim/",
+        "gram": "noun.",
+        "meaning": "firefly"
+    },
+    {
+        "id": 40,
+        "word": "ashsi",
+        "rom": "ashsi",
+        "phon": "/'aʃsi/",
+        "gram": "noun.",
+        "meaning": "child, baby"
+    },
+    {
+        "id": 41,
+        "word": "ask",
+        "rom": "ask",
+        "phon": "/ask/",
+        "gram": "noun.",
+        "meaning": "east"
+    },
+    {
+        "id": 42,
+        "word": "askith",
+        "rom": "askith",
+        "phon": "/as'kiθ/",
+        "gram": "noun.",
+        "meaning": "rain"
+    },
+    {
+        "id": 43,
+        "word": "asori",
+        "rom": "asori",
+        "phon": "/a'sori/",
+        "gram": "verb.",
+        "meaning": "to propose, to compromise"
+    },
+    {
+        "id": 44,
+        "word": "asorish",
+        "rom": "asorish",
+        "phon": "/a'soriʃ/",
+        "gram": "noun.",
+        "meaning": "compromise, proposal"
+    },
+    {
+        "id": 45,
+        "word": "ast",
+        "rom": "ast",
+        "phon": "/ast/",
+        "gram": "noun.",
+        "meaning": "water"
+    },
+    {
+        "id": 46,
+        "word": "asti",
+        "rom": "asti",
+        "phon": "/'astɪ/",
+        "gram": "adjective.",
+        "meaning": "wet"
+    },
+    {
+        "id": 47,
+        "word": "astkath",
+        "rom": "astkath",
+        "phon": "/ast'kaθ/",
+        "gram": "noun.",
+        "meaning": "river"
+    },
+    {
+        "id": 48,
+        "word": "asto",
+        "rom": "asto",
+        "phon": "/'asto/",
+        "gram": "noun. verb.",
+        "meaning": "to confuse, to mess up, a mess"
+    },
+    {
+        "id": 49,
+        "word": "at",
+        "rom": "at",
+        "phon": "/at/",
+        "gram": "adjective.",
+        "meaning": "big"
+    },
+    {
+        "id": 50,
+        "word": "ath",
+        "rom": "ath",
+        "phon": "/aθ/",
+        "gram": "noun.",
+        "meaning": "mother"
+    },
+    {
+        "id": 51,
+        "word": "athri",
+        "rom": "athri",
+        "phon": "/'aθri/",
+        "gram": "noun.",
+        "meaning": "home, house"
+    },
+    {
+        "id": 52,
+        "word": "ba",
+        "rom": "ba",
+        "phon": "/ba/",
+        "gram": "verb.",
+        "meaning": "to sleep"
+    },
+    {
+        "id": 53,
+        "word": "baa",
+        "rom": "baa",
+        "phon": "/baː/",
+        "gram": "noun.",
+        "meaning": "grandmother"
+    },
+    {
+        "id": 54,
+        "word": "bae",
+        "rom": "bae",
+        "phon": "/'baɘ/",
+        "gram": "noun.",
+        "meaning": "grandfather"
+    },
+    {
+        "id": 55,
+        "word": "baikasa",
+        "rom": "baikasa",
+        "phon": "/baɪ'kasa/",
+        "gram": "noun.",
+        "meaning": "finger"
+    },
+    {
+        "id": 56,
+        "word": "baka",
+        "rom": "baka",
+        "phon": "/'baka/",
+        "gram": "verb.",
+        "meaning": "to go away, to travel, to move"
+    },
+    {
+        "id": 57,
+        "word": "baraa",
+        "rom": "baraa",
+        "phon": "/ba'raː/",
+        "gram": "noun.",
+        "meaning": "priestess"
+    },
+    {
+        "id": 58,
+        "word": "barae",
+        "rom": "barae",
+        "phon": "/ba'raɘ/",
+        "gram": "noun.",
+        "meaning": "priest"
+    },
+    {
+        "id": 59,
+        "word": "bash",
+        "rom": "bash",
+        "phon": "/baʃ/",
+        "gram": "verb.",
+        "meaning": "to die"
+    },
+    {
+        "id": 60,
+        "word": "bashai",
+        "rom": "bashai",
+        "phon": "/ba'ʃaɪ/",
+        "gram": "noun.",
+        "meaning": "dead body, corpse"
+    },
+    {
+        "id": 61,
+        "word": "baso",
+        "rom": "baso",
+        "phon": "/'baso/",
+        "gram": "verb.",
+        "meaning": "to sit"
+    },
+    {
+        "id": 62,
+        "word": "basof",
+        "rom": "basof",
+        "phon": "/ba'sɔf/",
+        "gram": "adjective.",
+        "meaning": "large, far away"
+    },
+    {
+        "id": 63,
+        "word": "basvi",
+        "rom": "basvi",
+        "phon": "/bas'vi/",
+        "gram": "noun.",
+        "meaning": "chair"
+    },
+    {
+        "id": 64,
+        "word": "bav",
+        "rom": "bav",
+        "phon": "/bav/",
+        "gram": "verb.",
+        "meaning": "to break, to divide, to slice"
+    },
+    {
+        "id": 65,
+        "word": "bavai",
+        "rom": "bavai",
+        "phon": "/ba'vaɪ/",
+        "gram": "noun.",
+        "meaning": "sharing"
+    },
+    {
+        "id": 66,
+        "word": "berg",
+        "rom": "berg",
+        "phon": "/berg/",
+        "gram": "noun.",
+        "meaning": "cabin, simple house"
+    },
+    {
+        "id": 67,
+        "word": "biak",
+        "rom": "biak",
+        "phon": "/bɪak/",
+        "gram": "noun.",
+        "meaning": "a house in the mountains"
+    },
+    {
+        "id": 68,
+        "word": "bith",
+        "rom": "bith",
+        "phon": "/biθ/",
+        "gram": "verb.",
+        "meaning": "to give"
+    },
+    {
+        "id": 69,
+        "word": "biv",
+        "rom": "biv",
+        "phon": "/biv/",
+        "gram": "verb.",
+        "meaning": "to exchange"
+    },
+    {
+        "id": 70,
+        "word": "da",
+        "rom": "da",
+        "phon": "/da/",
+        "gram": "noun.",
+        "meaning": "father"
+    },
+    {
+        "id": 71,
+        "word": "dire",
+        "rom": "dire",
+        "phon": "/'dirɘ/",
+        "gram": "noun.",
+        "meaning": "knife"
+    },
+    {
+        "id": 72,
+        "word": "ensh",
+        "rom": "ensh",
+        "phon": "/ɘnʃ/",
+        "gram": "noun. adjective.",
+        "meaning": "gold, yellow, golden"
+    },
+    {
+        "id": 73,
+        "word": "esh",
+        "rom": "esh",
+        "phon": "/ɛʃ/",
+        "gram": "pronoun.",
+        "meaning": "you, yourself"
+    },
+    {
+        "id": 74,
+        "word": "eshari",
+        "rom": "eshari",
+        "phon": "/eʃa'ri/",
+        "gram": "expression.",
+        "meaning": "Welcome'"
+    },
+    {
+        "id": 75,
+        "word": "eth",
+        "rom": "eth",
+        "phon": "/ɛθ/",
+        "gram": "article. def.",
+        "meaning": "the"
+    },
+    {
+        "id": 76,
+        "word": "fa",
+        "rom": "fa",
+        "phon": "/fa/",
+        "gram": "verb. noun.",
+        "meaning": "power"
+    },
+    {
+        "id": 77,
+        "word": "fae",
+        "rom": "fae",
+        "phon": "/'faɘ/",
+        "gram": "noun.",
+        "meaning": "autumn, fall"
+    },
+    {
+        "id": 78,
+        "word": "faɡe",
+        "rom": "faɡe",
+        "phon": "/'faɡɘ/",
+        "gram": "adjective.",
+        "meaning": "foreign, strange"
+    },
+    {
+        "id": 79,
+        "word": "fai",
+        "rom": "fai",
+        "phon": "/faɪ/",
+        "gram": "noun.",
+        "meaning": "life, essence, spirit"
+    },
+    {
+        "id": 80,
+        "word": "faik",
+        "rom": "faik",
+        "phon": "/faɪk/",
+        "gram": "adjective.",
+        "meaning": "brave, corageous"
+    },
+    {
+        "id": 81,
+        "word": "faikal",
+        "rom": "faikal",
+        "phon": "/faɪ'kal/",
+        "gram": "noun.",
+        "meaning": "bravery"
+    },
+    {
+        "id": 82,
+        "word": "fain",
+        "rom": "fain",
+        "phon": "/faɪn/",
+        "gram": "verb.",
+        "meaning": "to feel"
+    },
+    {
+        "id": 83,
+        "word": "fainai",
+        "rom": "fainai",
+        "phon": "/faɪ'naɪ/",
+        "gram": "noun.",
+        "meaning": "feeling"
+    },
+    {
+        "id": 84,
+        "word": "fait",
+        "rom": "fait",
+        "phon": "/faɪt/",
+        "gram": "verb.",
+        "meaning": "to lock up, to restrain, to seize"
+    },
+    {
+        "id": 85,
+        "word": "faith",
+        "rom": "faith",
+        "phon": "/faɪθ/",
+        "gram": "verb.",
+        "meaning": "to born"
+    },
+    {
+        "id": 86,
+        "word": "fao",
+        "rom": "fao",
+        "phon": "/'faɔ/",
+        "gram": "noun.",
+        "meaning": "vagina"
+    },
+    {
+        "id": 87,
+        "word": "faram",
+        "rom": "faram",
+        "phon": "/fa'ram/",
+        "gram": "noun.",
+        "meaning": "gratitude"
+    },
+    {
+        "id": 88,
+        "word": "farasiak",
+        "rom": "farasiak",
+        "phon": "/farasɪ'ak/",
+        "gram": "expression.",
+        "meaning": "thank you"
+    },
+    {
+        "id": 89,
+        "word": "fari",
+        "rom": "fari",
+        "phon": "/'farɪ/",
+        "gram": "adjective.",
+        "meaning": "good"
+    },
+    {
+        "id": 90,
+        "word": "fasi",
+        "rom": "fasi",
+        "phon": "/'fasɪ/",
+        "gram": "noun. adjective.",
+        "meaning": "beauty, beautiful, pretty"
+    },
+    {
+        "id": 91,
+        "word": "feraat",
+        "rom": "feraat",
+        "phon": "/fe'raːt/",
+        "gram": "noun.",
+        "meaning": "crime"
+    },
+    {
+        "id": 92,
+        "word": "feraatne",
+        "rom": "feraatne",
+        "phon": "/fe'raːtnɘ/",
+        "gram": "noun.",
+        "meaning": "criminal"
+    },
+    {
+        "id": 93,
+        "word": "feri",
+        "rom": "feri",
+        "phon": "/'fɛri/",
+        "gram": "noun.",
+        "meaning": "evil, enemy"
+    },
+    {
+        "id": 94,
+        "word": "fesi",
+        "rom": "fesi",
+        "phon": "/'fɛsɪ/",
+        "gram": "noun. adjective.",
+        "meaning": "fear, scary"
+    },
+    {
+        "id": 95,
+        "word": "feth",
+        "rom": "feth",
+        "phon": "/feθ/",
+        "gram": "noun.",
+        "meaning": "ship, boat"
+    },
+    {
+        "id": 96,
+        "word": "fi",
+        "rom": "fi",
+        "phon": "/fi/",
+        "gram": "verb.",
+        "meaning": "to live"
+    },
+    {
+        "id": 97,
+        "word": "fikas",
+        "rom": "fikas",
+        "phon": "/fi'kas/",
+        "gram": "noun.",
+        "meaning": "the feeling when listening to a good song"
+    },
+    {
+        "id": 98,
+        "word": "fikath",
+        "rom": "fikath",
+        "phon": "/fɪ'kaθ/",
+        "gram": "verb.",
+        "meaning": "to live (in some place), to reside"
+    },
+    {
+        "id": 99,
+        "word": "fir",
+        "rom": "fir",
+        "phon": "/fih/",
+        "gram": "noun.",
+        "meaning": "winter"
+    },
+    {
+        "id": 100,
+        "word": "firai",
+        "rom": "firai",
+        "phon": "/fi'rai/",
+        "gram": "noun.",
+        "meaning": "flower"
+    },
+    {
+        "id": 101,
+        "word": "firari",
+        "rom": "firari",
+        "phon": "/fi'rari/",
+        "gram": "verb.",
+        "meaning": "to freeze"
+    },
+    {
+        "id": 102,
+        "word": "firo",
+        "rom": "firo",
+        "phon": "/'firo/",
+        "gram": "adjective.",
+        "meaning": "sharp"
+    },
+    {
+        "id": 103,
+        "word": "flask",
+        "rom": "flask",
+        "phon": "/flask/",
+        "gram": "adjective.",
+        "meaning": "savage"
+    },
+    {
+        "id": 104,
+        "word": "fo",
+        "rom": "fo",
+        "phon": "/fɔ/",
+        "gram": "noun.",
+        "meaning": "darkness, obscurity"
+    },
+    {
+        "id": 105,
+        "word": "gae",
+        "rom": "gae",
+        "phon": "/'ɡaɘ/",
+        "gram": "particle.",
+        "meaning": "yes"
+    },
+    {
+        "id": 106,
+        "word": "gale",
+        "rom": "gale",
+        "phon": "/'galɘ/",
+        "gram": "noun.",
+        "meaning": "plantation"
+    },
+    {
+        "id": 107,
+        "word": "gaska",
+        "rom": "gaska",
+        "phon": "/ga'ska/",
+        "gram": "verb. noun.",
+        "meaning": "to owe, duty, obligation"
+    },
+    {
+        "id": 108,
+        "word": "ɡehe",
+        "rom": "ɡehe",
+        "phon": "/'ɡɘhɘ/",
+        "gram": "adjective.",
+        "meaning": "warm, hot, tasty"
+    },
+    {
+        "id": 109,
+        "word": "gishath",
+        "rom": "gishath",
+        "phon": "/gi'ʃaθ/",
+        "gram": "noun.",
+        "meaning": "dignity"
+    },
+    {
+        "id": 110,
+        "word": "gist",
+        "rom": "gist",
+        "phon": "/ɡist/",
+        "gram": "adverb.",
+        "meaning": "yet, still"
+    },
+    {
+        "id": 111,
+        "word": "haf",
+        "rom": "haf",
+        "phon": "/haf/",
+        "gram": "noun.",
+        "meaning": "bow"
+    },
+    {
+        "id": 112,
+        "word": "hafirai",
+        "rom": "hafirai",
+        "phon": "/hafi'raɪ/",
+        "gram": "noun.",
+        "meaning": "may, november, last month of spring"
+    },
+    {
+        "id": 113,
+        "word": "hag",
+        "rom": "hag",
+        "phon": "/hag/",
+        "gram": "noun.",
+        "meaning": "penis"
+    },
+    {
+        "id": 114,
+        "word": "hane",
+        "rom": "hane",
+        "phon": "/'hanɘ/",
+        "gram": "noun.",
+        "meaning": "name"
+    },
+    {
+        "id": 115,
+        "word": "hari",
+        "rom": "hari",
+        "phon": "/ha'ri/",
+        "gram": "noun.",
+        "meaning": "september, march, first month of fall"
+    },
+    {
+        "id": 116,
+        "word": "hash",
+        "rom": "hash",
+        "phon": "/haʃ/",
+        "gram": "noun.",
+        "meaning": "queen"
+    },
+    {
+        "id": 117,
+        "word": "hashi",
+        "rom": "hashi",
+        "phon": "/'haʃɪ/",
+        "gram": "noun.",
+        "meaning": "princess"
+    },
+    {
+        "id": 118,
+        "word": "heki",
+        "rom": "heki",
+        "phon": "/'hɘkɪ/",
+        "gram": "noun. adjective.",
+        "meaning": "private parts, private, intimate"
+    },
+    {
+        "id": 119,
+        "word": "hesh",
+        "rom": "hesh",
+        "phon": "/hɛʃ/",
+        "gram": "noun.",
+        "meaning": "king"
+    },
+    {
+        "id": 120,
+        "word": "heshi",
+        "rom": "heshi",
+        "phon": "/'hɘʃɪ/",
+        "gram": "noun.",
+        "meaning": "prince"
+    },
+    {
+        "id": 121,
+        "word": "heth",
+        "rom": "heth",
+        "phon": "/hɛθ/",
+        "gram": "noun.",
+        "meaning": "west"
+    },
+    {
+        "id": 122,
+        "word": "hi",
+        "rom": "hi",
+        "phon": "/hi/",
+        "gram": "adverb.",
+        "meaning": "inside, in"
+    },
+    {
+        "id": 123,
+        "word": "hisak",
+        "rom": "hisak",
+        "phon": "/'hisak/",
+        "gram": "noun. verb.",
+        "meaning": "lie, to lie"
+    },
+    {
+        "id": 124,
+        "word": "hisho",
+        "rom": "hisho",
+        "phon": "/hi'ʃɔ/",
+        "gram": "noun.",
+        "meaning": "hair, fur"
+    },
+    {
+        "id": 125,
+        "word": "hist",
+        "rom": "hist",
+        "phon": "/hist/",
+        "gram": "verb.",
+        "meaning": "to pierce, to stick"
+    },
+    {
+        "id": 126,
+        "word": "ho",
+        "rom": "ho",
+        "phon": "/ho/",
+        "gram": "particle.",
+        "meaning": "no, not"
+    },
+    {
+        "id": 127,
+        "word": "hosak",
+        "rom": "hosak",
+        "phon": "/'hɔsak/",
+        "gram": "noun. adjective.",
+        "meaning": "pride, proud"
+    },
+    {
+        "id": 128,
+        "word": "hosh",
+        "rom": "hosh",
+        "phon": "/hosh/",
+        "gram": "adjective.",
+        "meaning": "fast, quick"
+    },
+    {
+        "id": 129,
+        "word": "hov",
+        "rom": "hov",
+        "phon": "/hov/",
+        "gram": "verb.",
+        "meaning": "to hurt"
+    },
+    {
+        "id": 130,
+        "word": "if",
+        "rom": "if",
+        "phon": "/if/",
+        "gram": "preposition.",
+        "meaning": "under, before, behind"
+    },
+    {
+        "id": 131,
+        "word": "ifna",
+        "rom": "ifna",
+        "phon": "/'ifna/",
+        "gram": "noun.",
+        "meaning": "servant, subject"
+    },
+    {
+        "id": 132,
+        "word": "ikat",
+        "rom": "ikat",
+        "phon": "/'ikat/",
+        "gram": "noun.",
+        "meaning": "brick"
+    },
+    {
+        "id": 133,
+        "word": "in",
+        "rom": "in",
+        "phon": "/in/",
+        "gram": "pronoun.",
+        "meaning": "this"
+    },
+    {
+        "id": 134,
+        "word": "iri",
+        "rom": "iri",
+        "phon": "/'irɪ/",
+        "gram": "noun.",
+        "meaning": "eye"
+    },
+    {
+        "id": 135,
+        "word": "ish",
+        "rom": "ish",
+        "phon": "/iʃ/",
+        "gram": "pronoun.",
+        "meaning": "where"
+    },
+    {
+        "id": 136,
+        "word": "isho",
+        "rom": "isho",
+        "phon": "/i'ʃɔ/",
+        "gram": "noun.",
+        "meaning": "head"
+    },
+    {
+        "id": 137,
+        "word": "it",
+        "rom": "it",
+        "phon": "/ɪt/",
+        "gram": "mnoun. adjective.",
+        "meaning": "one, alone"
+    },
+    {
+        "id": 138,
+        "word": "itahi",
+        "rom": "itahi",
+        "phon": "/i'tahi/",
+        "gram": "noun.",
+        "meaning": "face"
+    },
+    {
+        "id": 139,
+        "word": "itakith",
+        "rom": "itakith",
+        "phon": "/ɪta'kiθ/",
+        "gram": "verb.",
+        "meaning": "to fall"
+    },
+    {
+        "id": 140,
+        "word": "itakithai",
+        "rom": "itakithai",
+        "phon": "/ɪta'kiθaɪ/",
+        "gram": "noun.",
+        "meaning": "fall"
+    },
+    {
+        "id": 141,
+        "word": "ith",
+        "rom": "ith",
+        "phon": "/iθ/",
+        "gram": "noun. adverb.",
+        "meaning": "pain, painful"
+    },
+    {
+        "id": 142,
+        "word": "itmo",
+        "rom": "itmo",
+        "phon": "/'itmo/",
+        "gram": "noun. adjective.",
+        "meaning": "the only one, unique"
+    },
+    {
+        "id": 143,
+        "word": "ka",
+        "rom": "ka",
+        "phon": "/ka/",
+        "gram": "verb.",
+        "meaning": "to go, to walk"
+    },
+    {
+        "id": 144,
+        "word": "kaa",
+        "rom": "kaa",
+        "phon": "/kaː/",
+        "gram": "particle.",
+        "meaning": "interrogative particle"
+    },
+    {
+        "id": 145,
+        "word": "kaar",
+        "rom": "kaar",
+        "phon": "/kaːh/",
+        "gram": "noun.",
+        "meaning": "tree"
+    },
+    {
+        "id": 146,
+        "word": "kaf",
+        "rom": "kaf",
+        "phon": "/kaf/",
+        "gram": "noun.",
+        "meaning": "foot, leg"
+    },
+    {
+        "id": 147,
+        "word": "kahosh",
+        "rom": "kahosh",
+        "phon": "/ka'hɔʃ/",
+        "gram": "verb.",
+        "meaning": "to run"
+    },
+    {
+        "id": 148,
+        "word": "kai",
+        "rom": "kai",
+        "phon": "/kaɪ/",
+        "gram": "adjective.",
+        "meaning": "young, new"
+    },
+    {
+        "id": 149,
+        "word": "kaish",
+        "rom": "kaish",
+        "phon": "/kaɪʃ/",
+        "gram": "noun.",
+        "meaning": "place"
+    },
+    {
+        "id": 150,
+        "word": "kal",
+        "rom": "kal",
+        "phon": "/kal/",
+        "gram": "adjective.",
+        "meaning": "strong"
+    },
+    {
+        "id": 151,
+        "word": "kaori",
+        "rom": "kaori",
+        "phon": "/ka'ɔrɪ/",
+        "gram": "noun.",
+        "meaning": "people, race"
+    },
+    {
+        "id": 152,
+        "word": "kasa",
+        "rom": "kasa",
+        "phon": "/'kasa/",
+        "gram": "noun.",
+        "meaning": "hand, arm"
+    },
+    {
+        "id": 153,
+        "word": "kashed",
+        "rom": "kashed",
+        "phon": "/ka'ʃed/",
+        "gram": "noun.",
+        "meaning": "rights"
+    },
+    {
+        "id": 154,
+        "word": "kast",
+        "rom": "kast",
+        "phon": "/kast/",
+        "gram": "verb.",
+        "meaning": "to understand, to know"
+    },
+    {
+        "id": 155,
+        "word": "kastai",
+        "rom": "kastai",
+        "phon": "/'kastaɪ/",
+        "gram": "noun.",
+        "meaning": "knowledge"
+    },
+    {
+        "id": 156,
+        "word": "kasti",
+        "rom": "kasti",
+        "phon": "/'kastɪ/",
+        "gram": "noun. adjective.",
+        "meaning": "wise, intelligence, intelligent"
+    },
+    {
+        "id": 157,
+        "word": "kat",
+        "rom": "kat",
+        "phon": "/kat/",
+        "gram": "noun.",
+        "meaning": "rock, stone, floor"
+    },
+    {
+        "id": 158,
+        "word": "kath",
+        "rom": "kath",
+        "phon": "/kaθ/",
+        "gram": "noun.",
+        "meaning": "earth, soil"
+    },
+    {
+        "id": 159,
+        "word": "kathka",
+        "rom": "kathka",
+        "phon": "/kaθ'ka/",
+        "gram": "noun.",
+        "meaning": "path, way"
+    },
+    {
+        "id": 160,
+        "word": "katvai",
+        "rom": "katvai",
+        "phon": "/kat'vaɪ/",
+        "gram": "noun.",
+        "meaning": "sand"
+    },
+    {
+        "id": 161,
+        "word": "katvask",
+        "rom": "katvask",
+        "phon": "/kat'vask/",
+        "gram": "noun.",
+        "meaning": "glass"
+    },
+    {
+        "id": 162,
+        "word": "ki",
+        "rom": "ki",
+        "phon": "/ki/",
+        "gram": "verb.",
+        "meaning": "to hear, to listen"
+    },
+    {
+        "id": 163,
+        "word": "kia",
+        "rom": "kia",
+        "phon": "/ki'a/",
+        "gram": "noun.",
+        "meaning": "snow"
+    },
+    {
+        "id": 164,
+        "word": "kishra",
+        "rom": "kishra",
+        "phon": "/'kiʃra/",
+        "gram": "adverb.",
+        "meaning": "once (an event)"
+    },
+    {
+        "id": 165,
+        "word": "ko",
+        "rom": "ko",
+        "phon": "/ko/",
+        "gram": "noun.",
+        "meaning": "fish"
+    },
+    {
+        "id": 166,
+        "word": "koe",
+        "rom": "koe",
+        "phon": "/'kɔɘ/",
+        "gram": "noun.",
+        "meaning": "bread"
+    },
+    {
+        "id": 167,
+        "word": "koen",
+        "rom": "koen",
+        "phon": "/'kɔɘn/",
+        "gram": "adjective.",
+        "meaning": "intimate"
+    },
+    {
+        "id": 168,
+        "word": "koha",
+        "rom": "koha",
+        "phon": "/'koha/",
+        "gram": "adjective.",
+        "meaning": "red"
+    },
+    {
+        "id": 169,
+        "word": "kohare",
+        "rom": "kohare",
+        "phon": "/kɔha'rɘ/",
+        "gram": "noun.",
+        "meaning": "honor"
+    },
+    {
+        "id": 170,
+        "word": "kohast",
+        "rom": "kohast",
+        "phon": "/ko'hast/",
+        "gram": "noun.",
+        "meaning": "blood"
+    },
+    {
+        "id": 171,
+        "word": "konoha",
+        "rom": "konoha",
+        "phon": "/kɔ'nɔha/",
+        "gram": "noun.",
+        "meaning": "companion"
+    },
+    {
+        "id": 172,
+        "word": "kosh",
+        "rom": "kosh",
+        "phon": "/kɔʃ/",
+        "gram": "noun.",
+        "meaning": "fish stew"
+    },
+    {
+        "id": 173,
+        "word": "leishai",
+        "rom": "leishai",
+        "phon": "/lɘɪ'ʃaɪ/",
+        "gram": "noun.",
+        "meaning": "present, gift"
+    },
+    {
+        "id": 174,
+        "word": "leivai",
+        "rom": "leivai",
+        "phon": "/lɘɪ'vaɪ/",
+        "gram": "noun.",
+        "meaning": "exchange"
+    },
+    {
+        "id": 175,
+        "word": "lekea",
+        "rom": "lekea",
+        "phon": "/'lɛkɘa/",
+        "gram": "adjective.",
+        "meaning": "ugly, bad"
+    },
+    {
+        "id": 176,
+        "word": "lesan",
+        "rom": "lesan",
+        "phon": "/lɛ'san/",
+        "gram": "verb.",
+        "meaning": "to find, to discover"
+    },
+    {
+        "id": 177,
+        "word": "lesanai",
+        "rom": "lesanai",
+        "phon": "/lɘsa'naɪ/",
+        "gram": "noun.",
+        "meaning": "discovery"
+    },
+    {
+        "id": 178,
+        "word": "let",
+        "rom": "let",
+        "phon": "/lɛt/",
+        "gram": "verb.",
+        "meaning": "to look for, to search"
+    },
+    {
+        "id": 179,
+        "word": "letai",
+        "rom": "letai",
+        "phon": "/le'taɪ/",
+        "gram": "noun.",
+        "meaning": "mission, quest"
+    },
+    {
+        "id": 180,
+        "word": "lis",
+        "rom": "lis",
+        "phon": "/lis/",
+        "gram": "adjective.",
+        "meaning": "pink, rosy"
+    },
+    {
+        "id": 181,
+        "word": "loki",
+        "rom": "loki",
+        "phon": "/'lɔkɪ/",
+        "gram": "noun.",
+        "meaning": "sound, music"
+    },
+    {
+        "id": 182,
+        "word": "ma",
+        "rom": "ma",
+        "phon": "/ma/",
+        "gram": "adverb.",
+        "meaning": "always"
+    },
+    {
+        "id": 183,
+        "word": "mai",
+        "rom": "mai",
+        "phon": "/maɪ/",
+        "gram": "verb.",
+        "meaning": "to allow"
+    },
+    {
+        "id": 184,
+        "word": "maikaa",
+        "rom": "maikaa",
+        "phon": "/maɪ'kaː/",
+        "gram": "expression.",
+        "meaning": "to ask for permission"
+    },
+    {
+        "id": 185,
+        "word": "maish",
+        "rom": "maish",
+        "phon": "/maɪʃ/",
+        "gram": "noun.",
+        "meaning": "permission"
+    },
+    {
+        "id": 186,
+        "word": "maki",
+        "rom": "maki",
+        "phon": "/'makɪ/",
+        "gram": "verb.",
+        "meaning": "to stand, to wake up, to happen"
+    },
+    {
+        "id": 187,
+        "word": "marst",
+        "rom": "marst",
+        "phon": "/marst/",
+        "gram": "verb. noun.",
+        "meaning": "fight, to fight"
+    },
+    {
+        "id": 188,
+        "word": "mer",
+        "rom": "mer",
+        "phon": "/mɛr/",
+        "gram": "adverb.",
+        "meaning": "out, outside"
+    },
+    {
+        "id": 189,
+        "word": "mesa",
+        "rom": "mesa",
+        "phon": "/'mɘsa/",
+        "gram": "conjunction.",
+        "meaning": "because of, due to"
+    },
+    {
+        "id": 190,
+        "word": "mi",
+        "rom": "mi",
+        "phon": "/mi/",
+        "gram": "preposition. adverb.",
+        "meaning": "with, together"
+    },
+    {
+        "id": 191,
+        "word": "miari",
+        "rom": "miari",
+        "phon": "/'mɪarɪ/",
+        "gram": "noun. adjective.",
+        "meaning": "god(ess), divine"
+    },
+    {
+        "id": 192,
+        "word": "miasti",
+        "rom": "miasti",
+        "phon": "/'mɪasti/",
+        "gram": "noun.",
+        "meaning": "destiny, fate"
+    },
+    {
+        "id": 193,
+        "word": "miat",
+        "rom": "miat",
+        "phon": "/mɪat/",
+        "gram": "noun.",
+        "meaning": "temple, sanctuary"
+    },
+    {
+        "id": 194,
+        "word": "mir",
+        "rom": "mir",
+        "phon": "/mih/",
+        "gram": "numeral.",
+        "meaning": "two"
+    },
+    {
+        "id": 195,
+        "word": "mist",
+        "rom": "mist",
+        "phon": "/mist/",
+        "gram": "noun.",
+        "meaning": "south"
+    },
+    {
+        "id": 196,
+        "word": "mit",
+        "rom": "mit",
+        "phon": "/mɪt/",
+        "gram": "adverb.",
+        "meaning": "already"
+    },
+    {
+        "id": 197,
+        "word": "mith",
+        "rom": "mith",
+        "phon": "/miθ/",
+        "gram": "verb.",
+        "meaning": "to marry, to unite"
+    },
+    {
+        "id": 198,
+        "word": "mithai",
+        "rom": "mithai",
+        "phon": "/mi'θaɪ/",
+        "gram": "noun.",
+        "meaning": "marriage, union"
+    },
+    {
+        "id": 199,
+        "word": "mo",
+        "rom": "mo",
+        "phon": "/mo/",
+        "gram": "adverb.",
+        "meaning": "never"
+    },
+    {
+        "id": 200,
+        "word": "mor",
+        "rom": "mor",
+        "phon": "/moh/",
+        "gram": "preposition.",
+        "meaning": "in front of, up, after, on"
+    },
+    {
+        "id": 201,
+        "word": "na",
+        "rom": "na",
+        "phon": "/na/",
+        "gram": "noun.",
+        "meaning": "person"
+    },
+    {
+        "id": 202,
+        "word": "naa",
+        "rom": "naa",
+        "phon": "/naː/",
+        "gram": "noun.",
+        "meaning": "woman"
+    },
+    {
+        "id": 203,
+        "word": "naari",
+        "rom": "naari",
+        "phon": "/'naːrɪ/",
+        "gram": "noun.",
+        "meaning": "humans"
+    },
+    {
+        "id": 204,
+        "word": "nae",
+        "rom": "nae",
+        "phon": "/'naɘ/",
+        "gram": "noun.",
+        "meaning": "man"
+    },
+    {
+        "id": 205,
+        "word": "nari",
+        "rom": "nari",
+        "phon": "/'nari/",
+        "gram": "adjective.",
+        "meaning": "free"
+    },
+    {
+        "id": 206,
+        "word": "nasari",
+        "rom": "nasari",
+        "phon": "/na'sari/",
+        "gram": "noun.",
+        "meaning": "one of Aaith's races"
+    },
+    {
+        "id": 207,
+        "word": "ni",
+        "rom": "ni",
+        "phon": "/ni/",
+        "gram": "noun.",
+        "meaning": "time"
+    },
+    {
+        "id": 208,
+        "word": "nie",
+        "rom": "nie",
+        "phon": "/'nɪɘ/",
+        "gram": "noun. adverb.",
+        "meaning": "day, sun, today"
+    },
+    {
+        "id": 209,
+        "word": "nier",
+        "rom": "nier",
+        "phon": "/niɘh/",
+        "gram": "noun.",
+        "meaning": "june, december, first month of summer"
+    },
+    {
+        "id": 210,
+        "word": "nif",
+        "rom": "nif",
+        "phon": "/nɪf/",
+        "gram": "adjective.",
+        "meaning": "lost"
+    },
+    {
+        "id": 211,
+        "word": "nikai",
+        "rom": "nikai",
+        "phon": "/ni'kaɪ/",
+        "gram": "adverb.",
+        "meaning": "now"
+    },
+    {
+        "id": 212,
+        "word": "nim",
+        "rom": "nim",
+        "phon": "/nim/",
+        "gram": "noun.",
+        "meaning": "light"
+    },
+    {
+        "id": 213,
+        "word": "nimaaith",
+        "rom": "nimaaith",
+        "phon": "/nɪ'maːɪθ/",
+        "gram": "noun.",
+        "meaning": "moon"
+    },
+    {
+        "id": 214,
+        "word": "nimaaithmiat",
+        "rom": "nimaaithmiat",
+        "phon": "/nim'aːɪθmɪat/",
+        "gram": "noun.",
+        "meaning": "moon temple"
+    },
+    {
+        "id": 215,
+        "word": "nimae",
+        "rom": "nimae",
+        "phon": "/'nɪmaɘ/",
+        "gram": "noun.",
+        "meaning": "month"
+    },
+    {
+        "id": 216,
+        "word": "nish",
+        "rom": "nish",
+        "phon": "/niʃ/",
+        "gram": "adverb.",
+        "meaning": "tomorrow"
+    },
+    {
+        "id": 217,
+        "word": "nith",
+        "rom": "nith",
+        "phon": "/nɪθ/",
+        "gram": "noun.",
+        "meaning": "year"
+    },
+    {
+        "id": 218,
+        "word": "nivi",
+        "rom": "nivi",
+        "phon": "/'nɪvi/",
+        "gram": "adverb.",
+        "meaning": "yesterday"
+    },
+    {
+        "id": 219,
+        "word": "noa",
+        "rom": "noa",
+        "phon": "/'nɔa/",
+        "gram": "noun.",
+        "meaning": "weapon"
+    },
+    {
+        "id": 220,
+        "word": "noat",
+        "rom": "noat",
+        "phon": "/'nɔat/",
+        "gram": "noun.",
+        "meaning": "sick, disease"
+    },
+    {
+        "id": 221,
+        "word": "oesh",
+        "rom": "oesh",
+        "phon": "/ɔ'ɛʃ/",
+        "gram": "pronoun.",
+        "meaning": "when"
+    },
+    {
+        "id": 222,
+        "word": "orsk",
+        "rom": "orsk",
+        "phon": "/ɔrsk/",
+        "gram": "noun.",
+        "meaning": "fire"
+    },
+    {
+        "id": 223,
+        "word": "perth",
+        "rom": "perth",
+        "phon": "/pehθ/",
+        "gram": "expression.",
+        "meaning": "swearing"
+    },
+    {
+        "id": 224,
+        "word": "ralkith",
+        "rom": "ralkith",
+        "phon": "/ral'kiθ/",
+        "gram": "noun.",
+        "meaning": "november, may, last month of autumn"
+    },
+    {
+        "id": 225,
+        "word": "ramne",
+        "rom": "ramne",
+        "phon": "/'ramnɘ/",
+        "gram": "noun.",
+        "meaning": "february, august, last month of winter"
+    },
+    {
+        "id": 226,
+        "word": "rash",
+        "rom": "rash",
+        "phon": "/ɹaʃ/",
+        "gram": "verb. noun.",
+        "meaning": "to kill, territory, country, nation"
+    },
+    {
+        "id": 227,
+        "word": "rashaes",
+        "rom": "rashaes",
+        "phon": "/ɹa'ʃaɘs/",
+        "gram": "noun. masc.",
+        "meaning": "murderer"
+    },
+    {
+        "id": 228,
+        "word": "rashai",
+        "rom": "rashai",
+        "phon": "/ɹa'ʃaɪ/",
+        "gram": "noun.",
+        "meaning": "murder"
+    },
+    {
+        "id": 229,
+        "word": "rashas",
+        "rom": "rashas",
+        "phon": "/ɹa'ʃas/",
+        "gram": "noun. fem.",
+        "meaning": "murderer"
+    },
+    {
+        "id": 230,
+        "word": "rask",
+        "rom": "rask",
+        "phon": "/rask/",
+        "gram": "noun. adjective.",
+        "meaning": "twilight, purple"
+    },
+    {
+        "id": 231,
+        "word": "rebavai",
+        "rom": "rebavai",
+        "phon": "/rɘ'bavɪ/",
+        "gram": "noun.",
+        "meaning": "january, july, second month of winter"
+    },
+    {
+        "id": 232,
+        "word": "regehe",
+        "rom": "regehe",
+        "phon": "/rɘ'ɡɘhɘ/",
+        "gram": "noun.",
+        "meaning": "july, january, second month of summer"
+    },
+    {
+        "id": 233,
+        "word": "ren",
+        "rom": "ren",
+        "phon": "/rɘn/",
+        "gram": "adjective.",
+        "meaning": "royal, wealthy, rich"
+    },
+    {
+        "id": 234,
+        "word": "rethirash",
+        "rom": "rethirash",
+        "phon": "/rɘθi'raʃ/",
+        "gram": "noun.",
+        "meaning": "april, october, second month of spring"
+    },
+    {
+        "id": 235,
+        "word": "riash",
+        "rom": "riash",
+        "phon": "/rɪash/",
+        "gram": "verb.",
+        "meaning": "to win (a gift, the war)"
+    },
+    {
+        "id": 236,
+        "word": "rieth",
+        "rom": "rieth",
+        "phon": "/rɪɛθ/",
+        "gram": "verb.",
+        "meaning": "to achieve, to get"
+    },
+    {
+        "id": 237,
+        "word": "riev",
+        "rom": "riev",
+        "phon": "/'rɪɛv/",
+        "gram": "verb.",
+        "meaning": "to burn, to destroy"
+    },
+    {
+        "id": 238,
+        "word": "rin",
+        "rom": "rin",
+        "phon": "/rin/",
+        "gram": "verb. adjective.",
+        "meaning": "to smile, happy, joyful"
+    },
+    {
+        "id": 239,
+        "word": "rinai",
+        "rom": "rinai",
+        "phon": "/ri'naɪ/",
+        "gram": "noun.",
+        "meaning": "smile, happiness, joy"
+    },
+    {
+        "id": 240,
+        "word": "rinari",
+        "rom": "rinari",
+        "phon": "/ri'nari/",
+        "gram": "noun.",
+        "meaning": "december, june, first month of winter"
+    },
+    {
+        "id": 241,
+        "word": "ro",
+        "rom": "ro",
+        "phon": "/ro/",
+        "gram": "verb.",
+        "meaning": "to come"
+    },
+    {
+        "id": 242,
+        "word": "roshi",
+        "rom": "roshi",
+        "phon": "/'roʃi/",
+        "gram": "adverb.",
+        "meaning": "close, near"
+    },
+    {
+        "id": 243,
+        "word": "sa ",
+        "rom": "sa ",
+        "phon": "/sa/",
+        "gram": "verb.",
+        "meaning": "to do, to act"
+    },
+    {
+        "id": 244,
+        "word": "saki",
+        "rom": "saki",
+        "phon": "/'saki/",
+        "gram": "article. ind.",
+        "meaning": "a, an, some"
+    },
+    {
+        "id": 245,
+        "word": "sao ",
+        "rom": "sao ",
+        "phon": "/'sao/",
+        "gram": "verb.",
+        "meaning": "to speak, to say"
+    },
+    {
+        "id": 246,
+        "word": "sash",
+        "rom": "sash",
+        "phon": "/saʃ/",
+        "gram": "noun.",
+        "meaning": "act, action"
+    },
+    {
+        "id": 247,
+        "word": "sasti",
+        "rom": "sasti",
+        "phon": "/sas'ti/",
+        "gram": "verb.",
+        "meaning": "to swim"
+    },
+    {
+        "id": 248,
+        "word": "sav",
+        "rom": "sav",
+        "phon": "/sav/",
+        "gram": "noun.",
+        "meaning": "voice"
+    },
+    {
+        "id": 249,
+        "word": "savae",
+        "rom": "savae",
+        "phon": "/sa'vaɘ/",
+        "gram": "verb.",
+        "meaning": "to confess"
+    },
+    {
+        "id": 250,
+        "word": "savitkishra",
+        "rom": "savitkishra",
+        "phon": "/sa'vitkiʃra/",
+        "gram": "adverb.",
+        "meaning": "sometimes"
+    },
+    {
+        "id": 251,
+        "word": "seth",
+        "rom": "seth",
+        "phon": "/sɛθ/",
+        "gram": "pronoun.",
+        "meaning": "what, which"
+    },
+    {
+        "id": 252,
+        "word": "shaa",
+        "rom": "shaa",
+        "phon": "/ʃaː/",
+        "gram": "noun.",
+        "meaning": "daughter"
+    },
+    {
+        "id": 253,
+        "word": "shad",
+        "rom": "shad",
+        "phon": "/ʃad/",
+        "gram": "noun.",
+        "meaning": "air"
+    },
+    {
+        "id": 254,
+        "word": "shanim",
+        "rom": "shanim",
+        "phon": "/'shanɪm/",
+        "gram": "noun.",
+        "meaning": "star"
+    },
+    {
+        "id": 255,
+        "word": "shao",
+        "rom": "shao",
+        "phon": "/'ʃao/",
+        "gram": "noun.",
+        "meaning": "son"
+    },
+    {
+        "id": 256,
+        "word": "shard",
+        "rom": "shard",
+        "phon": "/ʃard/",
+        "gram": "noun.",
+        "meaning": "sky"
+    },
+    {
+        "id": 257,
+        "word": "shas",
+        "rom": "shas",
+        "phon": "/ʃas/",
+        "gram": "noun.",
+        "meaning": "cloud"
+    },
+    {
+        "id": 258,
+        "word": "shasa",
+        "rom": "shasa",
+        "phon": "/'ʃasa/",
+        "gram": "verb.",
+        "meaning": "to fly"
+    },
+    {
+        "id": 259,
+        "word": "shath",
+        "rom": "shath",
+        "phon": "/ʃaθ/",
+        "gram": "preposition.",
+        "meaning": "conditional, if"
+    },
+    {
+        "id": 260,
+        "word": "shav",
+        "rom": "shav",
+        "phon": "/ʃav/",
+        "gram": "noun.",
+        "meaning": "nose"
+    },
+    {
+        "id": 261,
+        "word": "shi",
+        "rom": "shi",
+        "phon": "/ʃi/",
+        "gram": "adverb.",
+        "meaning": "here"
+    },
+    {
+        "id": 262,
+        "word": "shin",
+        "rom": "shin",
+        "phon": "/ʃin/",
+        "gram": "adjective.",
+        "meaning": "white"
+    },
+    {
+        "id": 263,
+        "word": "shinari",
+        "rom": "shinari",
+        "phon": "/ʃi'nari/",
+        "gram": "noun.",
+        "meaning": "snow"
+    },
+    {
+        "id": 264,
+        "word": "shira",
+        "rom": "shira",
+        "phon": "/ʃi'ra/",
+        "gram": "noun.",
+        "meaning": "friend"
+    },
+    {
+        "id": 265,
+        "word": "shiro",
+        "rom": "shiro",
+        "phon": "/'ʃirɔ/",
+        "gram": "verb.",
+        "meaning": "to start"
+    },
+    {
+        "id": 266,
+        "word": "sho",
+        "rom": "sho",
+        "phon": "/ʃo/",
+        "gram": "noun.",
+        "meaning": "body"
+    },
+    {
+        "id": 267,
+        "word": "shof",
+        "rom": "shof",
+        "phon": "/ʃof/",
+        "gram": "noun.",
+        "meaning": "heart"
+    },
+    {
+        "id": 268,
+        "word": "shoith",
+        "rom": "shoith",
+        "phon": "/sho'iθ/",
+        "gram": "noun.",
+        "meaning": "wound"
+    },
+    {
+        "id": 269,
+        "word": "shor",
+        "rom": "shor",
+        "phon": "/ʃɔh/",
+        "gram": "noun.",
+        "meaning": "summer"
+    },
+    {
+        "id": 270,
+        "word": "shovod",
+        "rom": "shovod",
+        "phon": "/ʃo'vɔd/",
+        "gram": "noun. adjective.",
+        "meaning": "hunger, empty (the stomach)"
+    },
+    {
+        "id": 271,
+        "word": "shra",
+        "rom": "shra",
+        "phon": "/ʃra/",
+        "gram": "noun.",
+        "meaning": "time, age, period"
+    },
+    {
+        "id": 272,
+        "word": "si",
+        "rom": "si",
+        "phon": "/si/",
+        "gram": "verb.",
+        "meaning": "to be"
+    },
+    {
+        "id": 273,
+        "word": "siit",
+        "rom": "siit",
+        "phon": "/siːt/",
+        "gram": "pronoun.",
+        "meaning": "each one"
+    },
+    {
+        "id": 274,
+        "word": "simir",
+        "rom": "simir",
+        "phon": "/si'mih/",
+        "gram": "preposition.",
+        "meaning": "equal"
+    },
+    {
+        "id": 275,
+        "word": "simirath",
+        "rom": "simirath",
+        "phon": "/simi'raθ/",
+        "gram": "noun.",
+        "meaning": "siblings"
+    },
+    {
+        "id": 276,
+        "word": "sin",
+        "rom": "sin",
+        "phon": "/sin/",
+        "gram": "verb.",
+        "meaning": "to hit"
+    },
+    {
+        "id": 277,
+        "word": "ska",
+        "rom": "ska",
+        "phon": "/ska/",
+        "gram": "noun.",
+        "meaning": "mistake"
+    },
+    {
+        "id": 278,
+        "word": "skaa",
+        "rom": "skaa",
+        "phon": "/skaː/",
+        "gram": "pronoun.",
+        "meaning": "who"
+    },
+    {
+        "id": 279,
+        "word": "skath",
+        "rom": "skath",
+        "phon": "/skaθ/",
+        "gram": "adjective.",
+        "meaning": "green"
+    },
+    {
+        "id": 280,
+        "word": "sofka",
+        "rom": "sofka",
+        "phon": "/sɔf'ka/",
+        "gram": "noun. adjective.",
+        "meaning": "flat, plain"
+    },
+    {
+        "id": 281,
+        "word": "ta",
+        "rom": "ta",
+        "phon": "/ta/",
+        "gram": "conjunction.",
+        "meaning": "and, also, or (interrogative)"
+    },
+    {
+        "id": 282,
+        "word": "tae",
+        "rom": "tae",
+        "phon": "/'taɘ/",
+        "gram": "pronoun.",
+        "meaning": "that"
+    },
+    {
+        "id": 283,
+        "word": "tahai",
+        "rom": "tahai",
+        "phon": "/ta'haɪ/",
+        "gram": "verb.",
+        "meaning": "to like"
+    },
+    {
+        "id": 284,
+        "word": "taho",
+        "rom": "taho",
+        "phon": "/'taho/",
+        "gram": "adjective.",
+        "meaning": "little, few, low, cheap"
+    },
+    {
+        "id": 285,
+        "word": "taish",
+        "rom": "taish",
+        "phon": "/taɪʃ/",
+        "gram": "noun. adjective.",
+        "meaning": "thirst, dry"
+    },
+    {
+        "id": 286,
+        "word": "taki",
+        "rom": "taki",
+        "phon": "/'takɪ/",
+        "gram": "adjective. adverb.",
+        "meaning": "giant, high, expensive, many, much"
+    },
+    {
+        "id": 287,
+        "word": "talet",
+        "rom": "talet",
+        "phon": "/'talɘt/",
+        "gram": "adjective.",
+        "meaning": "impossible"
+    },
+    {
+        "id": 288,
+        "word": "tas",
+        "rom": "tas",
+        "phon": "/tas/",
+        "gram": "noun.",
+        "meaning": "word"
+    },
+    {
+        "id": 289,
+        "word": "tash",
+        "rom": "tash",
+        "phon": "/taʃ/",
+        "gram": "adverb.",
+        "meaning": "there"
+    },
+    {
+        "id": 290,
+        "word": "tashi",
+        "rom": "tashi",
+        "phon": "/'taʃɪ/",
+        "gram": "noun.",
+        "meaning": "arrow"
+    },
+    {
+        "id": 291,
+        "word": "task",
+        "rom": "task",
+        "phon": "/task/",
+        "gram": "verb.",
+        "meaning": "to write"
+    },
+    {
+        "id": 292,
+        "word": "taskai",
+        "rom": "taskai",
+        "phon": "/tas'kaɪ/",
+        "gram": "noun.",
+        "meaning": "writing"
+    },
+    {
+        "id": 293,
+        "word": "tav",
+        "rom": "tav",
+        "phon": "/tav/",
+        "gram": "adverb.",
+        "meaning": "how"
+    },
+    {
+        "id": 294,
+        "word": "tha",
+        "rom": "tha",
+        "phon": "/θa/",
+        "gram": "pronoun.",
+        "meaning": "she"
+    },
+    {
+        "id": 295,
+        "word": "thae",
+        "rom": "thae",
+        "phon": "/'θaɘ/",
+        "gram": "pronoun.",
+        "meaning": "he"
+    },
+    {
+        "id": 296,
+        "word": "thaen",
+        "rom": "thaen",
+        "phon": "/'θaɘn/",
+        "gram": "adjective.",
+        "meaning": "naked"
+    },
+    {
+        "id": 297,
+        "word": "thain",
+        "rom": "thain",
+        "phon": "/'θain/",
+        "gram": "noun.",
+        "meaning": "money, currency"
+    },
+    {
+        "id": 298,
+        "word": "thar",
+        "rom": "thar",
+        "phon": "/θah/",
+        "gram": "verb.",
+        "meaning": "to reporduce"
+    },
+    {
+        "id": 299,
+        "word": "tharai",
+        "rom": "tharai",
+        "phon": "/θa'raɪ/",
+        "gram": "noun.",
+        "meaning": "sex"
+    },
+    {
+        "id": 300,
+        "word": "thasor",
+        "rom": "thasor",
+        "phon": "/θa'sɔh/",
+        "gram": "noun.",
+        "meaning": "sword"
+    },
+    {
+        "id": 301,
+        "word": "thif",
+        "rom": "thif",
+        "phon": "/θif/",
+        "gram": "noun.",
+        "meaning": "past"
+    },
+    {
+        "id": 302,
+        "word": "thir",
+        "rom": "thir",
+        "phon": "/θih/",
+        "gram": "verb.",
+        "meaning": "to grow"
+    },
+    {
+        "id": 303,
+        "word": "thiramn",
+        "rom": "thiramn",
+        "phon": "/θi'ramn/",
+        "gram": "verb.",
+        "meaning": "to cultivate, to plant"
+    },
+    {
+        "id": 304,
+        "word": "thirash",
+        "rom": "thirash",
+        "phon": "/θi'raʃ/",
+        "gram": "noun.",
+        "meaning": "planting"
+    },
+    {
+        "id": 305,
+        "word": "tho",
+        "rom": "tho",
+        "phon": "/θo/",
+        "gram": "conjunction.",
+        "meaning": "so, then"
+    },
+    {
+        "id": 306,
+        "word": "thor",
+        "rom": "thor",
+        "phon": "/θɔh/",
+        "gram": "noun.",
+        "meaning": "future"
+    },
+    {
+        "id": 307,
+        "word": "tiho",
+        "rom": "tiho",
+        "phon": "/'tʃihɔ/",
+        "gram": "verb.",
+        "meaning": "to use"
+    },
+    {
+        "id": 308,
+        "word": "to",
+        "rom": "to",
+        "phon": "/to/",
+        "gram": "verb.",
+        "meaning": "to eat"
+    },
+    {
+        "id": 309,
+        "word": "tonime",
+        "rom": "tonime",
+        "phon": "/to'nimɘ/",
+        "gram": "conjunction.",
+        "meaning": "but, although"
+    },
+    {
+        "id": 310,
+        "word": "tosh",
+        "rom": "tosh",
+        "phon": "/tɔʃ/",
+        "gram": "noun.",
+        "meaning": "belly"
+    },
+    {
+        "id": 311,
+        "word": "tov",
+        "rom": "tov",
+        "phon": "/tɔv/",
+        "gram": "noun.",
+        "meaning": "food"
+    },
+    {
+        "id": 312,
+        "word": "va",
+        "rom": "va",
+        "phon": "/va/",
+        "gram": "conjunction.",
+        "meaning": "but, however"
+    },
+    {
+        "id": 313,
+        "word": "vaar",
+        "rom": "vaar",
+        "phon": "/vaːh/",
+        "gram": "noun.",
+        "meaning": "respect"
+    },
+    {
+        "id": 314,
+        "word": "vaast",
+        "rom": "vaast",
+        "phon": "/vaːst/",
+        "gram": "noun.",
+        "meaning": "smell"
+    },
+    {
+        "id": 315,
+        "word": "vaat",
+        "rom": "vaat",
+        "phon": "/vaːt/",
+        "gram": "pronoun.",
+        "meaning": "somebody"
+    },
+    {
+        "id": 316,
+        "word": "vae",
+        "rom": "vae",
+        "phon": "/'vaɘ/",
+        "gram": "noun.",
+        "meaning": "truth"
+    },
+    {
+        "id": 317,
+        "word": "vait",
+        "rom": "vait",
+        "phon": "/vaɪt/",
+        "gram": "noun. adjective.",
+        "meaning": "part, broken"
+    },
+    {
+        "id": 318,
+        "word": "vari",
+        "rom": "vari",
+        "phon": "/'varɪ/",
+        "gram": "noun.",
+        "meaning": "glory, fame"
+    },
+    {
+        "id": 319,
+        "word": "vas",
+        "rom": "vas",
+        "phon": "/vas/",
+        "gram": "verb.",
+        "meaning": "to own, to possess"
+    },
+    {
+        "id": 320,
+        "word": "vash",
+        "rom": "vash",
+        "phon": "/vaʃ/",
+        "gram": "pronoun.",
+        "meaning": "everyone, all"
+    },
+    {
+        "id": 321,
+        "word": "vashvi",
+        "rom": "vashvi",
+        "phon": "/'vaʃvɪ/",
+        "gram": "pronoun.",
+        "meaning": "everything, all"
+    },
+    {
+        "id": 322,
+        "word": "vastai",
+        "rom": "vastai",
+        "phon": "/vas'taɪ/",
+        "gram": "noun.",
+        "meaning": "animal"
+    },
+    {
+        "id": 323,
+        "word": "vath",
+        "rom": "vath",
+        "phon": "/vaθ/",
+        "gram": "numeral.",
+        "meaning": "three"
+    },
+    {
+        "id": 324,
+        "word": "vea",
+        "rom": "vea",
+        "phon": "/'vɛa/",
+        "gram": "pronoun.",
+        "meaning": "nothing, none"
+    },
+    {
+        "id": 325,
+        "word": "vena",
+        "rom": "vena",
+        "phon": "/'vɘna/",
+        "gram": "noun.",
+        "meaning": "flame"
+    },
+    {
+        "id": 326,
+        "word": "vi",
+        "rom": "vi",
+        "phon": "/vi/",
+        "gram": "noun.",
+        "meaning": "thing"
+    },
+    {
+        "id": 327,
+        "word": "viab",
+        "rom": "viab",
+        "phon": "/vɪab/",
+        "gram": "noun.",
+        "meaning": "bed"
+    },
+    {
+        "id": 328,
+        "word": "vilet",
+        "rom": "vilet",
+        "phon": "/vɪ'lɛt/",
+        "gram": "noun.",
+        "meaning": "map"
+    },
+    {
+        "id": 329,
+        "word": "vin",
+        "rom": "vin",
+        "phon": "/vin/",
+        "gram": "verb.",
+        "meaning": "to pray"
+    },
+    {
+        "id": 330,
+        "word": "vinai",
+        "rom": "vinai",
+        "phon": "/vi'naɪ/",
+        "gram": "noun.",
+        "meaning": "prayer"
+    },
+    {
+        "id": 331,
+        "word": "viri",
+        "rom": "viri",
+        "phon": "/'virɪ/",
+        "gram": "noun.",
+        "meaning": "glasses"
+    },
+    {
+        "id": 332,
+        "word": "vis",
+        "rom": "vis",
+        "phon": "/vis/",
+        "gram": "noun.",
+        "meaning": "market"
+    },
+    {
+        "id": 333,
+        "word": "vit",
+        "rom": "vit",
+        "phon": "/vɪt/",
+        "gram": "pronoun.",
+        "meaning": "some"
+    },
+    {
+        "id": 334,
+        "word": "vith",
+        "rom": "vith",
+        "phon": "/vɪθ/",
+        "gram": "adjective.",
+        "meaning": "rude, bad, fuck, shit"
+    },
+    {
+        "id": 335,
+        "word": "vo",
+        "rom": "vo",
+        "phon": "/vo/",
+        "gram": "noun.",
+        "meaning": "beginning, start"
+    },
+    {
+        "id": 336,
+        "word": "vod",
+        "rom": "vod",
+        "phon": "/vɔd/",
+        "gram": "noun. numeral.",
+        "meaning": "nothing, empty, zero"
+    },
+    {
+        "id": 337,
+        "word": "vosh",
+        "rom": "vosh",
+        "phon": "/vɔʃ/",
+        "gram": "verb.",
+        "meaning": "to stop, to let"
+    }
+]
