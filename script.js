@@ -1,12 +1,8 @@
 window.requestFileSystem  = window.requestFileSystem || window.webkitRequestFileSystem;
 
 function errorHandler(e) {
-    var msg = 'error';
-    console.log('Error: ' + msg);
+    if(err) throw err;
   }
-
-
-
 
 
 var url = "aaith-dictionary.xlsx";
@@ -34,9 +30,6 @@ req.onload = function() {
       fileEntry.createWriter(function(fileWriter) {
   
         fileWriter.onwriteend = function(e) {
-          var file = fileEntry.toURL();
-          document.body.appendChild(file);
-          window.open(file, '_blank');
           console.log('Write completed.');
         };
   
@@ -48,6 +41,7 @@ req.onload = function() {
         var blob = new Blob(listOfWords, {type: 'text/plain'});
   
         fileWriter.write(blob);
+        window.open('words.json', '_blank')
   
       }, errorHandler);
   
