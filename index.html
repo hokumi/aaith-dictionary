@@ -7,39 +7,9 @@
     <link rel="shortcut icon" type="image/png" href="https://i.imgur.com/kfnGV9m.png"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script lang="javascript" src="xlsx.full.min.js"></script>
+    <script lang="javascript" src="script.js"></script>
 </head>
 <body>
-    <script type="text/javascript">
-var url = "aaith-dictionary.xlsx";
-
-var req = new XMLHttpRequest();
-req.open("GET", url, true);
-req.responseType = "arraybuffer";
-
-req.onload = function(e) {
-  var data = new Uint8Array(req.response);
-  var workbook = XLSX.read(data, {type:"array"});
-
-  var first_sheet_name = workbook.SheetNames[0];
-
-  var worksheet = workbook.Sheets[first_sheet_name];
-  var listOfWords = XLSX.utils.sheet_to_json(worksheet);
-  function display(){
-    var mainDiv = document.getElementById('main');
-    mainDiv.innerHTML = JSON.stringify(listOfWords, null, 4);
-}
-display();
-/* to_json returns an object-mode stream */
-var stream = XLSX.stream.to_json(worksheet, {raw:true});
-
-/* the following stream converts JS objects to text via JSON.stringify */
-var conv = new Transform({writableObjectMode:true});
-conv._transform = function(obj, e, cb){ cb(null, JSON.stringify(obj) + "\n"); };
-
-stream.pipe(conv); conv.pipe(process.stdout);
-}
-req.send();
-    </script>
 <pre id='main'></pre>
 </body>
 </html>
