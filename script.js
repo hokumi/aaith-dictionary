@@ -1,4 +1,4 @@
-var url = "aaith-dictionary.xlsx";
+var url = "https://hokumi.github.io/aaith-dictionary/aaith-dictionary.xlsx";
 
 var req = new XMLHttpRequest();
 req.open("GET", url, true);
@@ -14,6 +14,7 @@ req.onload = function() {
 
   function display(){
     var mainDiv = document.getElementById('main');
+    mainDiv.innerHTML = ' ';
     mainDiv.innerHTML = JSON.stringify(listOfWords, null, 4);    
 }
 display();
